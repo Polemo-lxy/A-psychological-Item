@@ -129,21 +129,21 @@ var iat_temp = {
     attribA: {
         label: '直视观众',
         items: [
-            '<img src="./images/img_direct_1.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_direct_2.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_direct_3.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_direct_4.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_direct_5.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_direct_6.png" style="width:600px;height:400px"/>'] },
+            '<img src="iat_demo/images/img_direct_1.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_direct_2.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_direct_3.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_direct_4.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_direct_5.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_direct_6.png" style="width:600px;height:400px"/>'] },
     attribB: {
         label:'注视产品',
         items:[
-            '<img src="./images/img_averted_1.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_averted_2.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_averted_3.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_averted_4.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_averted_5.png" style="width:600px;height:400px"/>',
-            '<img src="./images/img_averted_6.png" style="width:600px;height:400px"/>'] },
+            '<img src="iat_demo/images/img_averted_1.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_averted_2.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_averted_3.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_averted_4.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_averted_5.png" style="width:600px;height:400px"/>',
+            '<img src="iat_demo/images/img_averted_6.png" style="width:600px;height:400px"/>'] },
     targetA: { label: '感性', items: ['感官', '情绪', '直觉', '感觉', '情感', '感受'] },
     targetB: { label: '理性', items: ['理智', '判断', '推理', '思考', '分析', '思维'] },
 }
